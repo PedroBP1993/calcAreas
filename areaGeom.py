@@ -1,4 +1,10 @@
 # Esse programa é um teste
 
-b = 3
-a = 4 + b
+def area_ret(ladoA,ladoB):
+
+    area = ladoA * ladoB
+
+
+    return area
+
+print(area_ret(10,20))
