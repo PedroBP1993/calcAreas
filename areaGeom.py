@@ -17,4 +17,11 @@ def area_circ(diametro):
 
 
 
-    return
+    return area
+
+def area_triangulo(base,altura):
+
+    area = base * altura / 2
+
+
+    return area
