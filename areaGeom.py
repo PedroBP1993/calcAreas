@@ -25,3 +25,10 @@ def area_triangulo(base,altura):
 
 
     return area
+
+def perim_triangulo(lado1,lado2, lado3):
+
+    prim = lado1 + lado2 + lado3
+
+
+    return perim
